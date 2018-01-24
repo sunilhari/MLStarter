@@ -15,7 +15,7 @@ All those libraries should installed in the virtual env so that it would be isol
 
 ### virtualenv 
 > pip install virtualenv
-> > virtualenv <envname>
+> > virtualenv envname
 
 Navigate to Scripts folder and run activate to enable virtual env.
 Install the dependecies mentioned in the req.text 
